@@ -14,6 +14,7 @@ I apply machine learning, bioinformatics, GIS, and epidemiology to solve **One H
   <li><b>Custom Fish Classifier (CNN)</b> – Deep learning model classifying fish species (TensorFlow/Keras). <a href="https://github.com/ololafemi/CUSTOM-DEEP-LEARNING-ON-FISH">Repo</a>.</li>
   <li><b>Malaria Risk Predictor</b> – ML model forecasting malaria outbreaks (Python, scikit-learn). <a href="https://github.com/ololafemi/Malaria-Prediction-Model">Repo</a>.</li>
   <li><b>Spatial Disease Mapping</b> – Interactive GIS maps of zoonotic outbreaks in Nigeria (QGIS, Leaflet). <a href="https://www.linkedin.com/posts/akintayo-ololade-97206a5b_spatial-epidemiology-nigeria">Details</a>.</li>
+  <li><b>AI AUTOMATION</b> – AI Automation Project. <a href="https://www.linkedin.com/posts/akintayo-ololade-97206a5b_ai-automation-artificialintelligence-ugcPost-7463274243863273472-Nfpi/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAylHuYB_Qd4RDs-01PjhdcYUl8SpWYbC_E">Details</a>.</li>
   <li><b>Gut Microbiome Analysis</b> – Metagenomic pipeline for bacterial profiling (Python, bioinformatics). <a href="https://github.com/ololafemi/Metagenomic-Gut-Bacteria-Analysis">Repo</a>.</li>
   <li><b>House Price Models</b> – Regression models predicting real estate prices. <a href="https://github.com/ololafemi/house-price-using-multiple-models">Repo</a>.</li>
   <li><b>Data Analytics Challenge</b> – Exploratory analysis and feature engineering on open datasets. <a href="https://github.com/ololafemi/DataAnalytics-Assessment">Repo</a>.</li>
