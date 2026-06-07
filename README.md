@@ -23,10 +23,10 @@ I apply machine learning, bioinformatics, GIS, and epidemiology to solve **One H
 <h2>📄 Publications</h2>
 <ul>
   <li><b>Ecto and GI Parasites in Gallus gallus</b> (Mar 2025) – *Vet. Parasitology*. [Full text](https://doi.org/10.1002/9781119277390.ch11).</li>
-  <li><b>Pig Parasites (Plateau State)</b> (Oct 2023) – *Int. J. Parasitology*. [Full text](https://doi.org/10.1007/s00436-023-07834-0).</li>
+  <li><b>Prevalence of Parasite and Occurrence of Co-Infection in Pigs Reared in Extensive Farms in Gombe State </b> (Jan 2024) – *Asian J. Res. Animal Vet. Sci.*. [Full text](https://www.researchgate.net/publication/382917015_Prevalence_of_Parasite_and_Occurrence_of_Co-Infection_in_Pigs_Reared_in_Extensive_Farms_in_Gombe_State).</li>
    <li><b>Addressing increasingly resistant drugs by an infectious agent, Drugs Target Review.</b> (May 2022) – *Drug Target Review UK*. (https://www.drugtargetreview.com/addressing-increasingly-resistant-drugs-by-infectious-agents/601410.article).</li>
   <li><b>Porcine Cysticercosis & Epilepsy (Ibadan)</b> (May 2022) – *Nigerian Journal of Parasitology*. [Download PDF](https://dx.doi.org/10.4314/njpar.v43i1.12). 【31†L139-L148】【31†L135-L142】</li>
-  <li><b>Pig Parasites (Gombe State)</b> (Jan 2024) – *Asian J. Anim. Vet. Adv.*. [View on SSRN](https://doi.org/10.2139/ssrn.4130147).【31†L10-L18】【31†L19-L28】</li>
+  <li><b>Epidemiological Study of Gastro-Intestinal Parasites in Selected Areas of Plateau State, Nigeria (Plateau State)</b> (Oct 2023) – *Alq J Med App Sci.*. [Full text](https://zenodo.org/records/8417494).</li>
 </ul>
 
 <h2>🤝 Connect</h2>
