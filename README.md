@@ -24,6 +24,7 @@ I apply machine learning, bioinformatics, GIS, and epidemiology to solve **One H
 <ul>
   <li><b>Ecto and GI Parasites in Gallus gallus</b> (Mar 2025) – *Vet. Parasitology*. [Full text](https://doi.org/10.1002/9781119277390.ch11).</li>
   <li><b>Pig Parasites (Plateau State)</b> (Oct 2023) – *Int. J. Parasitology*. [Full text](https://doi.org/10.1007/s00436-023-07834-0).</li>
+   <li><b>Addressing increasingly resistant drugs by an infectious agent, Drugs Target Review.</b> (May 2022) – *Drug Target Review UK*. (https://www.drugtargetreview.com/addressing-increasingly-resistant-drugs-by-infectious-agents/601410.article).</li>
   <li><b>Porcine Cysticercosis & Epilepsy (Ibadan)</b> (May 2022) – *Nigerian Journal of Parasitology*. [Download PDF](https://dx.doi.org/10.4314/njpar.v43i1.12). 【31†L139-L148】【31†L135-L142】</li>
   <li><b>Pig Parasites (Gombe State)</b> (Jan 2024) – *Asian J. Anim. Vet. Adv.*. [View on SSRN](https://doi.org/10.2139/ssrn.4130147).【31†L10-L18】【31†L19-L28】</li>
 </ul>
